@@ -9,7 +9,7 @@ root@smkmanusa:~# apt-get install bind9 dnsutils
 è masukkan cd 1 dan cd 2
 
 Konfigurasi DNS server (file named.conf)
-root@smkmanusa:~# nano /etc/bind/named.conf.default-zones
+root@smkmanusa:~#  nano /etc/bind/named.conf.default-zones
 
 Edit pada baris:
 
